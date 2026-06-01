@@ -4,10 +4,10 @@ nombre = input()
 #elif 
 
 
-if nombre == "Antonio":
-    print("Saludo Antonio")
-elif nombre == "Carlos":
-    print("Que bonito nombre Carlos")
+if nombre == "Stanley":
+    print("Saludo Stanley")
+elif nombre == "Jaeson":
+    print("Que bonito nombre Jaeson")
 
 else:
     print("Que extraño nombre")
